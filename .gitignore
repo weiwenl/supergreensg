@@ -24,3 +24,16 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+
+# AI assistant / agent workspace files — never commit
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
+.cursor/
+.cursorrules
+.aider*
+.windsurf/
+.codex/
+AGENTS.md
+DESIGN_SPEC.md
